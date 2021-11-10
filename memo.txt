@@ -15,7 +15,11 @@ un repository
 
 08- git branch => permet de lister les branches. Une branch est une copie du repertoire. dans un projet on peut en avoir plusieurs
 
-09- git branch nom-de-la-branch permet de créer une nouvelle branche, une copie exacte de la branche principale au moment de sa création
+09- git branch nom-de-la-branch => permet de créer une nouvelle branche, une copie exacte de la branche principale au moment de sa création
 
-10- git checkout 
+10- git checkout => nom-de-la-branch => basculer vers cette branche
+
+11- git merge nom-de-la-branch => fusionne la branch nom-de-la-bhanche à la branch courante
+
+12- git branch -d nom-de-la-branch => pour supprimer une branche
 

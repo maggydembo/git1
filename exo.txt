@@ -1,0 +1,13 @@
+exercice :
+
+creer une nouvelle fonctionnalité correspondant à un formulaire de connexion
+0-creer une branche connexion
+1-se positionner sur la branche 
+2-creer le fichier connexion.html
+3-valider les modifications
+4-fusionner la branche connexion a la branche master
+5-supprimer la branche connexion
+
+
+git branch connexion
+git checkout connexion
