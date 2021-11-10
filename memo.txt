@@ -1,0 +1,8 @@
+1- git init => permet d'initialiser  (dire à git que ce repertoire est un repertoire dont on souhaite avoir l'historique des miodifiction). 
+un repository
+
+2- git add nom- du-fichier => permet de'indexer ce fichier git peut maintenant suivre l'evolution des modifications apportées sur le fichier.
+
+3- git stats permet de voir l'éta du dépôt ( donne le détail sur les fichiers qui sont indexés (en couleur verte) et ceux qui ne le sont pas encore (en couleur rouge))
+
+4- 
