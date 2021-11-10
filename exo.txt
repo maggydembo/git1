@@ -11,3 +11,7 @@ creer une nouvelle fonctionnalité correspondant à un formulaire de connexion
 
 git branch connexion
 git checkout connexion
+creation du fichier html
+git add .
+git commit
+(git reset hard)
