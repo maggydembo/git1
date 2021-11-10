@@ -1,8 +1,21 @@
-1- git init => permet d'initialiser  (dire à git que ce repertoire est un repertoire dont on souhaite avoir l'historique des miodifiction). 
+01- git init => permet d'initialiser  (dire à git que ce repertoire est un repertoire dont on souhaite avoir l'historique des miodifiction). 
 un repository
 
-2- git add nom- du-fichier => permet de'indexer ce fichier git peut maintenant suivre l'evolution des modifications apportées sur le fichier.
+002- git add nom- du-fichier => permet de'indexer ce fichier git peut maintenant suivre l'evolution des modifications apportées sur le fichier.
 
-3- git stats permet de voir l'éta du dépôt ( donne le détail sur les fichiers qui sont indexés (en couleur verte) et ceux qui ne le sont pas encore (en couleur rouge))
+03- git stats permet de voir l'éta du dépôt ( donne le détail sur les fichiers qui sont indexés (en couleur verte) et ceux qui ne le sont pas encore (en couleur rouge))
 
-4- 
+04- git add . (le point pour dire ajouter tous les fichiers du dossier)
+
+05- git add index* (pour ajouter l'ensemble des fichiers qui commence par index suivi de qq chose)
+
+06- git commit - m "message du comit => enregistre l'etat du repository à l'instant il lui donne un identifiant pour pouvoir revenir sur ce commit plus tard.
+
+07- git reset --hard numero-du-commit => revenir sur le comit en question
+
+08- git branch => permet de lister les branches. Une branch est une copie du repertoire. dans un projet on peut en avoir plusieurs
+
+09- git branch nom-de-la-branch permet de créer une nouvelle branche, une copie exacte de la branche principale au moment de sa création
+
+10- git checkout 
+
